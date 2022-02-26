@@ -1,5 +1,6 @@
 # javascript-masterclass
 
+
 Esse repositório contém todo o conteúdo aprezentado no curso [javascript master class](https://app.branas.io/javascriptmasterclass).<br>
 Onde cada uma das pastas presenta uma aula junto com os exemplos realizados na aula
 
@@ -31,3 +32,4 @@ No javascript existem três maneiras de se declarar variáveis <b>var</b>, <b>le
 <li>Permite reatribuição</li>
 <li>Declarada no escopo da função mas não inicializada</li>
 <ul>
+
