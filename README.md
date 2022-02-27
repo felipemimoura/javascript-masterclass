@@ -1,6 +1,5 @@
 # javascript-masterclass
 
-
 Esse repositório contém todo o conteúdo aprezentado no curso [javascript master class](https://app.branas.io/javascriptmasterclass).<br>
 Onde cada uma das pastas presenta uma aula junto com os exemplos realizados na aula
 
@@ -31,5 +30,24 @@ No javascript existem três maneiras de se declarar variáveis <b>var</b>, <b>le
 <li>Não permite redeclaração</li>
 <li>Permite reatribuição</li>
 <li>Declarada no escopo da função mas não inicializada</li>
-<ul>
+</ul>
 
+### Tipo de dados
+
+No JS temos possuímos dois tipos de dados os `primitivos` e `objetos` .
+
+Os tipos `primitivos` são eles:
+
+- number;
+- string;
+- boolean;
+- Symbol;
+- object;
+- undefined
+
+Já os tipos `objetos` são eles:
+
+- funções
+- objetos
+- arrays
+- Expressões regulares
