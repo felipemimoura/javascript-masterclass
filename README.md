@@ -51,3 +51,13 @@ Já os tipos `objetos` são eles:
 - objetos
 - arrays
 - Expressões regulares
+
+<b>Number</b>
+
+Dentro do javascript exite somente uma maneira de se declarar números que é através do tipo `primitivo` **number.** Por existir somente um tipo de dado esse tipo aceita diversas tipos de **numbers** sendo possível representa-los através dos sistemas `decimal,hexadecimal,binário, octal`
+
+O tipo `number` possui algumas funções que buscam facilitar a forma como número é apresentado:
+
+- toFixed: adiciona casas decimais após o ponto conforme solicitado
+- toExponential: Exibe o número em forma exponencial;
+- toPression: Exibe o número com a precisão informada;
